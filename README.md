@@ -1,4 +1,4 @@
-# qr_code
+# encrypted_app
 
 A new Flutter project.
 
